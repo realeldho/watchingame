@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "watchingame",
+	"version": "${version}",
+	"name": "WatchInGame",
+	"description": "Watch YouTube videos directly inside Minecraft. Play, pause, seek, control volume, and keep watching without leaving your game.",
+	"authors": [
+		"REAL_ELDHO"
+	],
+	"contact": {
+		"homepage": "https://www.agnimc.fun/",
+		"sources": "https://github.com/REAL-ELDHO/WatchInGame",
+		"issues": "https://github.com/REAL-ELDHO/WatchInGame/issues"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/watchingame/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"watchingame.WatchInGame"
+		],
+		"client": [
+			"com.realeldho.watchingame.client.WatchInGameClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "watchingame.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

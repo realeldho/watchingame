@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "package": "com.realeldho.watchingame.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "GuiGraphicsInvoker"
+  ]
+}
