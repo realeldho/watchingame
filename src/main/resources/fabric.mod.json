@@ -8,9 +8,9 @@
 		"REAL_ELDHO"
 	],
 	"contact": {
-		"homepage": "https://www.agnimc.fun/",
-		"sources": "https://github.com/REAL-ELDHO/WatchInGame",
-		"issues": "https://github.com/REAL-ELDHO/WatchInGame/issues"
+		"homepage": "https://github.com/realeldho/watchingame",
+		"sources": "https://github.com/realeldho/watchingame",
+		"issues": "https://github.com/realeldho/watchingame/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/watchingame/icon.png",
