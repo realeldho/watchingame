@@ -57,7 +57,7 @@ Screenshots will be added soon.
 
 ## 👤 Author
 
-**REAL_ELDHO**
+**real_eldho**
 
 ## 📄 License
 
