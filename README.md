@@ -53,6 +53,7 @@ Screenshots will be added soon.
 ## 🌐 Links
 
 - **GitHub:** https://github.com/realeldho/watchingame
+- **CurseForge:** https://www.curseforge.com/minecraft/mc-mods/watchingame
 
 ## 👤 Author
 
